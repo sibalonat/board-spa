@@ -1,0 +1,45 @@
+// Body
+$body-bg: #f8fafc;
+
+@font-face {
+    // /fonts/DankMonoRegular.woff
+    font-family: 'dank-mono';
+    src: url('./fonts/DankMonoRegular.woff') format('woff');
+}
+// src: url('./fonts/DankMonoRegular.woff') format('woff');
+
+// Typography
+$font-family-sans-serif: 'Nunito',
+sans-serif;
+$font-family-dank-mono: 'dank-mono',
+sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$relative: relative;
+$flex: flex;
+$base1Of12: 8.333333%;
+// flex-basis: 8.333333%;
+$base2Of12: 16.666667%;
+$base3Of12: 25%;
+$base4Of12: 33.333333%;
+$base5Of12: 41.666667%;
+$base6Of12: 50%;
+$base7Of12: 58.333333%;
+$base8Of12: 66.666667%;
+$base9Of12: 75%;
+$base10Of12: 83.333333%;
+$base11Of12: 91.666667%;
+$baseFull: 100%;
+
+// Margin
+$marginTop: 3rem;
+
+// width
+$straightEighty: 80%;
+$headingWidth: 87.666667%;;
+
+$layout-breakpoint-2xl-large: 1536px;
+$layout-breakpoint-xl-large: 1280px;
+$layout-breakpoint-large: 1024px;
+$layout-breakpoint-medium: 768px;
+$layout-breakpoint-small: 640px;
