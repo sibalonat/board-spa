@@ -13,7 +13,7 @@ Such plugins are out to be mentioned though. Is the Vue Modal and Vue Draggable
 
 For the column create there is a html that gets added to the dom every time one condition is true through computed - they shine in these type of scenarios. 
 
-Ive used SASS or SCSS for this project. Due to how long have i been using Tailwind the first impression after some time, SASS seemed quite useless. But i believe that scoping and some other addition of varible inheritance get the job done pretty well. I started by criziting the library to actually after finishing thinking that css, is to premature. So it maybe how you learn. I have always used css. Define one class for one element. SASS created some situation where i needed to repeat the code in cases where i found it difficult to understand why would it inherit some early parts of the code. It simply didnt make sense. But surely, after working for two days, you get to understand the library better, and become more versed.  
+Ive used SASS or SCSS for this project. Due to how long have i been using Tailwind the first impression after some time, SASS seemed quite useless. But i believe that scoping and some other addition of varible inheritance get the job done pretty well. I started by criziting the library to actually after finishing thinking that css, is to premature. So it maybe how you learn.
 
 #
 
